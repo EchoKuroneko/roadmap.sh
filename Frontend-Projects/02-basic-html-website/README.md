@@ -1,6 +1,6 @@
 # Echo Kuroneko - Basic HTML Website
 
-This is a basic website using HTML. Focused on using correct HTML tags and structure.
+This is a [basic website using HTML](https://roadmap.sh/projects/basic-html-website). Focused on using correct HTML tags and structure.
 
 ## Features
 - **Semantic HTML**: Proper use of HTML5 tags for accessibility and SEO.
@@ -9,4 +9,4 @@ This is a basic website using HTML. Focused on using correct HTML tags and struc
 
 ## Live Demo
 
-Check out the live demo here: [basic-html-website](https://echokuroneko.github.io/roadmap.sh/Frontend-Projects/02-basic-html-website/)
+Check out the live demo here: [Basic Html Website](https://echokuroneko.github.io/roadmap.sh/Frontend-Projects/02-basic-html-website/)
