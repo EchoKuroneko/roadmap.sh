@@ -10,4 +10,4 @@ This is a single-page CV built using HTML and CSS. It is designed to be clean, r
 
 ## Live Demo
 
-Check out the live demo here: [single-page-cv](https://echokuroneko.github.io/roadmap.sh/single-page-cv/)
+Check out the live demo here: [single-page-cv](https://echokuroneko.github.io/roadmap.sh/Frontend-Projects/01-single-page-cv/)
